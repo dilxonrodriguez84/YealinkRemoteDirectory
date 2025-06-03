@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+  <Menu Name="Office Ladies">
+    <Unit Name="Alissa Shreeve" Phone1="" Phone2="17705983546" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Cara Collins" Phone1="" Phone2="17708788138" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Delinda Cell" Phone1="" Phone2="14042023720" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Delinda Home" Phone1="" Phone2="17062194612" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Fallon Middleton" Phone1="" Phone2="14703029335" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Faye Colbert" Phone1="" Phone2="16788625926" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Grace Koellhoffer" Phone1="" Phone2="14703821774" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Paula Hartley" Phone1="" Phone2="16785492865" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="The Guys">
+    <Unit Name="Blake Davis" Phone1="" Phone2="17703778869" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Blake Walker" Phone1="" Phone2="17704018375" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Bryan Lozada" Phone1="" Phone2="14706283131" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Chandler Kunkel" Phone1="" Phone2="17064295989" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CJ Wallace" Phone1="" Phone2="17068442684" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Demetrius Maddox" Phone1="" Phone2="16784854652" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Emmett, Jacob" Phone1="" Phone2="14702529630" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Jacob Emmett" Phone1="" Phone2="14702529630" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Jake Seabolt" Phone1="" Phone2="17705476062" Phone3="" default_photo="Resource:"/>
+    <Unit Name="John Reaves" Phone1="" Phone2="14045026372" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Kalle Watt" Phone1="" Phone2="16783167525" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Mikey Harvey" Phone1="" Phone2="17065254967" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Milton Blas-Ramos" Phone1="" Phone2="16782668995" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Skyler Flake" Phone1="" Phone2="17069749987" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Warren Syn" Phone1="" Phone2="14042742321" Phone3="" default_photo="Resource:"/>
+  </Menu>
+</YealinkIPPhoneBook>
